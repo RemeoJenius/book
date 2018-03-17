@@ -1,0 +1,11 @@
+{{extend ("./layout/layout")}}
+
+{{#block ("head")}}
+    <style>
+
+    </style>
+{{/block}}
+
+{{#block ("body")}}
+<p>hello world!</p>
+{{/block}}
